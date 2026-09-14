@@ -165,6 +165,7 @@ On the L2 bridge, `gasTokenAddress()` returns `0x9D98C61d1136cfA2ac263Be355350C9
 | AgglayerBridge | [`0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe`](https://explorer.tajirchain.com/address/0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe) |
 | AgglayerGER | [`0xa40D5f56745a118D0906a34E69aeC8C0Db1cB8fA`](https://explorer.tajirchain.com/address/0xa40D5f56745a118D0906a34E69aeC8C0Db1cB8fA) |
 | WETH | [`0x7a7f337d883EE98DF40c4654b3ad4E3aacF304E8`](https://explorer.tajirchain.com/address/0x7a7f337d883EE98DF40c4654b3ad4E3aacF304E8) |
+| TimelockController | [`0xe9CF3136A0524E09A9C0aacC5123DaA35d283c1A`](https://explorer.tajirchain.com/address/0xe9CF3136A0524E09A9C0aacC5123DaA35d283c1A) |
 | OP Stack Predeploys | Standard at `0x4200000000000000000000000000000000000000` – `0x42000000000000000000000000000000000000FF` |
 
 > Full address manifests: [`mainnet/addresses.json`](./mainnet/addresses.json) · [`testnet/addresses.json`](./testnet/addresses.json)

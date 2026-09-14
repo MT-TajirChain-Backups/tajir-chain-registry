@@ -29,6 +29,7 @@
     "AgglayerBridge": "0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe",
     "AgglayerGER": "0xa40D5f56745a118D0906a34E69aeC8C0Db1cB8fA",
     "WETH": "0x7a7f337d883EE98DF40c4654b3ad4E3aacF304E8",
+    "TimelockController": "0xe9CF3136A0524E09A9C0aacC5123DaA35d283c1A",
     "predeploys": "Standard OP Stack predeploys at 0x42000000000000000000000000000000000000xx"
   }
 }
