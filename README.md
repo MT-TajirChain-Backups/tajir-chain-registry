@@ -182,6 +182,7 @@ On the L2 bridge, `gasTokenAddress()` returns `0x9D98C61d1136cfA2ac263Be355350C9
 | AgglayerBridge | [`0x528e26b25a34a4A5d0dbDa1d57D318153d2ED582`](https://sepolia.etherscan.io/address/0x528e26b25a34a4A5d0dbDa1d57D318153d2ED582) |
 | AgglayerManager | [`0x32d33D5137a7cFFb54c5Bf8371172bcEc5f310ff`](https://sepolia.etherscan.io/address/0x32d33D5137a7cFFb54c5Bf8371172bcEc5f310ff) |
 | AgglayerGateway | [`0xaA8103640A6C92af48A97D720168011E9f3Ec697`](https://sepolia.etherscan.io/address/0xaA8103640A6C92af48A97D720168011E9f3Ec697) |
+| TimelockController (L2) | [`0x45771C2d2c6f19248719796569f6DA342Be00d04`](https://explorer.testnet.tajirchain.com/address/0x45771C2d2c6f19248719796569f6DA342Be00d04) |
 
 ---
 
