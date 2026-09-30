@@ -2,7 +2,11 @@
   "chainId": 7733,
   "l1ChainId": 11155111,
   "l1": {
-    "TajirTestToken": "0x55AEE58B82f2195D9F18e4C18eadB7B0c2ea6E09",
+    "TajirTestToken": {
+      "proxy": "0x55AEE58B82f2195D9F18e4C18eadB7B0c2ea6E09",
+      "implementation": "0x5f468ad99a2e213137727ae922efadf0884932e7",
+      "pattern": "ERC1967 (UUPS)"
+    },
     "AdminSafe": "0xd1aF581fD4494dc904b174B381CdF9766ed94599",
     "opStack": {
       "SystemConfig": "0xfce2f0a58726F4a6CEfA6ca7607B0Ea88215F789",

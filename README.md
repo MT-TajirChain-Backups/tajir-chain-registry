@@ -177,6 +177,7 @@ On the L2 bridge, `gasTokenAddress()` returns `0x9D98C61d1136cfA2ac263Be355350C9
 | Contract | Address |
 |---|---|
 | TajirTestToken (L1) | [`0x55AEE58B82f2195D9F18e4C18eadB7B0c2ea6E09`](https://sepolia.etherscan.io/address/0x55AEE58B82f2195D9F18e4C18eadB7B0c2ea6E09) |
+| TajirTestToken (L1, Implementation) | [`0x5f468ad99a2e213137727ae922efadf0884932e7`](https://sepolia.etherscan.io/address/0x5f468ad99a2e213137727ae922efadf0884932e7) |
 | SystemConfig | [`0xfce2f0a58726F4a6CEfA6ca7607B0Ea88215F789`](https://sepolia.etherscan.io/address/0xfce2f0a58726F4a6CEfA6ca7607B0Ea88215F789) |
 | OptimismPortal | [`0x57Fec7B357CD769e62223a0cA3CC878F7DC92aaa`](https://sepolia.etherscan.io/address/0x57Fec7B357CD769e62223a0cA3CC878F7DC92aaa) |
 | DisputeGameFactory | [`0xbdE5ca7e0DE67E182e5C3d9326026d0bBe55Ac91`](https://sepolia.etherscan.io/address/0xbdE5ca7e0DE67E182e5C3d9326026d0bBe55Ac91) |
